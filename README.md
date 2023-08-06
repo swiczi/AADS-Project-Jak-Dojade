@@ -23,7 +23,7 @@ For each query, output one line. At the beginning of the line should be the numb
 
 </br> --------------------------------------------------------------------------------------------------------------------- </br>
 
-🌱 Example file is attached as: example_in.in and example_out.out
+🌱 Example files are attached as: example_in.in and example_out.out
 
 # Summary:
 
